@@ -1,8 +1,7 @@
 npm install inquirer
 const inquirer = require('inquirer');
 const Choices = require('inquirer/lib/objects/choices');
-inquirer
-  .prompt([
+inquirer.prompt([
     /* Pass your questions in here */
     type: "input"
     name: input => (input) "Please enter the Team Managers name"
