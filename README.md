@@ -1,3 +1,6 @@
+App does not run properly yet, I did not have as much success with node.js as I hoped. I will continue to work on this project to update until ready to function
+
+
 # 10 Object-Oriented Programming: Team Profile Generator
 
 ## Your Task
