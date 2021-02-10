@@ -1,0 +1,14 @@
+{
+  "name": "Team Profile Generator",
+  "version": "1.0.0",
+  "description": "unit 10 homework",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
